@@ -31,4 +31,4 @@ The following functionality was entered by myself:
 * Three enemies moving from all directions on the screen
 * One prize, which if caught, wins you the game
 
-If there are any further questions regarding this simple game, kindly send me an email to fmrandall7895@gmail.com.
+If there are any further questions regarding adding the dditional functionality to the game, kindly send me an email to fmrandall7895@gmail.com. If there are any further questions regarding the initial code provided by HyperionDev, kindly send an email to support@hyperiondev.com.
