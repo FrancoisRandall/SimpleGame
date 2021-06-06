@@ -9,6 +9,9 @@ In order to play the game, follow the below steps:
 * Download IDLE
 * Copy the code provided
 * Paste it in the code editor
+* Upload 4 files to the same folder where the program's folder will be
+* Update all the relevant sections in the code with the names of your 4 images (1 will be the prize)
+* Alternativley, rename all your images to the names exactly mentioned in the code
 * Run the program
 
 Once run, the game will be initialised. The game will only have 2 outcomes:
